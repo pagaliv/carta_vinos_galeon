@@ -32,7 +32,7 @@ def main():
     
     for nombre_vino, pagina in vinos.items():
     # URL with page anchor
-        url = f"{base_url}#page={pagina}"
+        url = f"{base_url}/index.html?pagina={pagina}"
         
     # Generate QR
         qr = qrcode.QRCode(
