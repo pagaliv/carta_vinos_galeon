@@ -10,4 +10,3 @@ BookmarkBegin
 BookmarkTitle: Vino Espumoso Rosé
 BookmarkLevel: 1
 BookmarkPageNumber: 3
-
