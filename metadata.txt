@@ -1,0 +1,39 @@
+InfoBegin
+InfoKey: Keywords
+InfoValue: DAG5m_XjolI,BAC0jX75xoE,0
+InfoBegin
+InfoKey: Creator
+InfoValue: Canva
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20251127101235+00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20251127101236+00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: Canva
+InfoBegin
+InfoKey: Author
+InfoValue: Pablo
+InfoBegin
+InfoKey: Title
+InfoValue: Ficha t&#233;cnica vinos Gale&#243;n
+PdfID0: e0740f9fa48cf408a4287df5732e3f89
+PdfID1: e0740f9fa48cf408a4287df5732e3f89
+NumberOfPages: 3
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 7.83 595.5 850.08
+PageMediaDimensions: 595.5 842.25
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 7.83 595.5 850.08
+PageMediaDimensions: 595.5 842.25
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 7.83 595.5 850.08
+PageMediaDimensions: 595.5 842.25
