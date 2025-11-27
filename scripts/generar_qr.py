@@ -12,7 +12,7 @@ def main():
     # Configuration
     GITHUB_USERNAME = "pagaliv"  
     REPO_NAME = "carta_vinos_galeon"
-    PDF_NAME = "catalogo-vinos.pdf"
+    PDF_NAME = "catalogo-con-marcadores.pdf"
     
     # List of wines and their pages (customize this)
     vinos = {
