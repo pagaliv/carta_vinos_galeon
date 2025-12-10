@@ -67,10 +67,10 @@
             return urlParams.get('pagina') || '1';
         }
 
-        // Crear URL del PDF con la página específica
+        // Crear URL del PDF con la página específica (usa el nuevo nombre sin espacios ni acentos)
         function createPdfUrl() {
             const page = getPageNumber();
-            return `Ficha técnica vinos Galeón-def.pdf#page=${page}`;
+            return `ficha-tecnica-galeon.pdf#page=${page}`;
         }
 
         // Redirigir automáticamente
